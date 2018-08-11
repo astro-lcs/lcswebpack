@@ -1,4 +1,4 @@
-FROM node:8.9.4
+FROM node:8.11.3
 MAINTAINER Tony Hsu
 # TERM is not set 
 ENV TERM xterm
